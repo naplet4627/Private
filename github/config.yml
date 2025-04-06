@@ -1,1 +1,9 @@
 github/config.yml
+newIssueWelcomeComment: >
+  Cześć! Dzięki za stworzenie pierwszego zgłoszenia! Witamy na pokładzie!
+
+newPRWelcomeComment: >
+  Super, że dodałeś pierwszego pull requesta! Dzięki za pomoc!
+
+firstPRMergeComment: >
+  Gratulacje z okazji pierwszego mergu! Świetna robota!
